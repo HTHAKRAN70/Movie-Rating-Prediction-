@@ -66,8 +66,8 @@ In conclusion, this project provides valuable insights and a predictive model fo
 - Real-time Data: Implement real-time data updates to keep the model current with the latest trends
 
 ## Author
-- Marwa Osman
-- marwaosman9975@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-- [GitHub](https://github.com/marwa9975)
+- Aarav Thakran
+- hthakran45@gmail.com
+- [LinkedIn](www.linkedin.com/in/aarav-thakran-779779240)
+- [GitHub](https://github.com/HTHAKRAN70)
 
